@@ -1,0 +1,11 @@
+#Read that to start#
+##First simple test with pure NODE Js with Selenium to practice##
+
+#build your test page scripts, then follow this sequence:
+1 - npm init
+2 - npm install selenium-webdriver 
+3 - npm install chromedriver --save-dev
+
+#Running this script:
+
+node googleHome.js
